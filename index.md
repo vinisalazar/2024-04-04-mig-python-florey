@@ -414,6 +414,6 @@ please preview your site before committing, and make sure to run
 
 <h2 id="setup">Setup</h2>
 
-Setup instructions available [here](https://swcarpentry.github.io/python-novice-inflammation/index.html#setup).
+Setup instructions available <a href="https://swcarpentry.github.io/python-novice-inflammation/index.html#setup">here</a>.
 
-If you prefer avoid installing Jupyter, or are having troubles to install it, use [Try Jupyter](https://jupyter.org/try-jupyter/lab/). Download the python-novice-inflammation-data.zip described in the setup, and use the "Upload files" button at the top of the sidebar (to the left of the screen, above the search bar, next to the "+" button).
+If you prefer avoid installing Jupyter, or are having troubles to install it, use <a href="https://jupyter.org/try-jupyter/lab/">Try Jupyter</a>. Download the python-novice-inflammation-data.zip described in the setup, and use the "Upload files" button at the top of the sidebar (to the left of the screen, above the search bar, next to the "+" button).
