@@ -349,6 +349,8 @@ change the value of `carpentry` to `incubator`.
 <p><a href="{{ site.post_survey }}{{ site.github.project_title }}">Post-workshop Survey</a></p>
 {% endif %}
 
+<a href="https://forms.gle/wzuZYGWHY3buDqEeA">In-house survey</a>
+
 <hr/>
 
 
@@ -390,5 +392,7 @@ please preview your site before committing, and make sure to run
 <h2 id="setup">Setup</h2>
 
 Setup instructions available <a href="https://swcarpentry.github.io/python-novice-inflammation/index.html#setup">here</a>.
+
+Lesson materials are available here: <a href="https://swcarpentry.github.io/python-novice-inflammation/">Python Novice Inflammation lesson</a>.
 
 If you prefer avoid installing Jupyter, or are having troubles to install it, use <a href="https://jupyter.org/try-jupyter/lab/">Try Jupyter</a>. Download the <a href="https://swcarpentry.github.io/python-novice-inflammation/data/python-novice-inflammation-data.zip">python-novice-inflammation-data.zip</a> described in the setup, and use the "Upload files" button at the top of the sidebar (to the left of the screen, above the search bar, next to the "+" button).
