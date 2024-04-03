@@ -14,7 +14,7 @@ humantime: "9:30 am - 12:30 pm AEST"    # human-readable times for the workshop 
 startdate: 2024-04-04      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2024-04-04        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Adam Taranto", "Vini Salazar"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Xiaochen Zhang"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+helper: ["Xiaochen Zhang", ]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["taranto.a@wehi.edu.au", "vinicius.salazar@unimelb.edu.au"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:  https://hackmd.io/@aRoGlsObRjCnuFui9o-Izw/B1qG4fW1C/edit # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite:        # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
@@ -395,4 +395,4 @@ Setup instructions available <a href="https://swcarpentry.github.io/python-novic
 
 Lesson materials are available here: <a href="https://swcarpentry.github.io/python-novice-inflammation/">Python Novice Inflammation lesson</a>.
 
-If you prefer avoid installing Jupyter, or are having troubles to install it, use <a href="https://jupyter.org/try-jupyter/lab/">Try Jupyter</a>. Download the <a href="https://swcarpentry.github.io/python-novice-inflammation/data/python-novice-inflammation-data.zip">python-novice-inflammation-data.zip</a> described in the setup, and use the "Upload files" button at the top of the sidebar (to the left of the screen, above the search bar, next to the "+" button).
+If you prefer avoid installing Jupyter, or are having troubles to install it, use <a href="https://jupyterhub.rc.nectar.org.au">Nectar JupyterHub</a>. Select the Standard Environment. Download the <a href="https://swcarpentry.github.io/python-novice-inflammation/data/python-novice-inflammation-data.zip">python-novice-inflammation-data.zip</a> described in the setup, and use the "Upload files" button at the top of the sidebar (to the left of the screen, above the search bar, next to the "+" button).
